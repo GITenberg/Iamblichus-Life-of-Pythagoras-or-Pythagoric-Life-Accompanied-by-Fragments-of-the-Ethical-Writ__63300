@@ -1,0 +1,46 @@
+_repo: Iamblichus-Life-of-Pythagoras-or-Pythagoric-Life-Accompanied-by-Fragments-of-the-Ethical-Writ__63300
+_version: 0.0.1
+alternative_title: De vita Pythagorica. English
+contributor:
+  translator:
+    agent_name: Taylor, Thomas
+    birthdate: 1758
+    deathdate: 1835
+    gutenberg_agent_id: '3385'
+    url: http://www.gutenberg.org/2009/agents/3385
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Taylor_%28neoplatonist%29
+creator:
+  author:
+    agent_name: Iamblichus
+    aliases:
+    - Jamblichus, of Chalcis
+    - Ἰάμβλιχος
+    - Giamblico
+    - Iamblichos
+    - Jamblique
+    gutenberg_agent_id: '52368'
+    url: http://www.gutenberg.org/2009/agents/52368
+    wikipedia: https://en.wikipedia.org/wiki/Iamblichus
+description: ''
+gutenberg_issued: '2020-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63300'
+  lccn: '11010813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics, Ancient'
+- !lcsh 'Philosophy, Ancient'
+- !lcc 'B'
+- !lcsh 'Pythagoras'
+- !lcsh 'Pythagoras and Pythagorean school'
+- !lcsh 'Philosophers -- Greece -- Biography'
+- GITenberg
+title: "Iamblichus' Life of Pythagoras, or Pythagoric Life\r\nAccompanied by Fragments\
+  \ of the Ethical Writings of certain Pythagoreans in the Doric dialect; and a collection\
+  \ of Pythagoric Sentences from Stobaeus and others, which are omitted by Gale in\
+  \ his Opuscula Mythologica, and have not been noticed by any editor"
+url: http://www.gutenberg.org/ebooks/63300
